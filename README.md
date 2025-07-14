@@ -114,11 +114,4 @@ It ensures all constraints are met and highlights which optimization criteria we
   - Satisfy **at least three** soft constraints
   - List constraints satisfied
 
----
 
-## 🚀 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/university-exam-scheduler.git
-   cd university-exam-scheduler
